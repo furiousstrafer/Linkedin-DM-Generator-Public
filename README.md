@@ -2,7 +2,7 @@
 
 A powerful AI-powered tool that generates personalized LinkedIn messages for recruiters and hiring managers. Built with Streamlit and powered by Groq's high-performance LLM.
 
-![Streamlit App](https://linkedincolddmgenerator.streamlit.app/)
+[App](https://linkedincolddmgenerator.streamlit.app/)
 
 ## ✨ Features
 
